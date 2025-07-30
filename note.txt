@@ -1,0 +1,1 @@
+sgb = {"sgb", "sgb24", "BS Skórcz", "sgb24.pl", "Bank Spółdzielczy SGB", "bskoscian.pl", "www.bsbialogard.pl", "Powiatowy Bank Spółdzielczy w Gostyniu", "Spółdzielcza Grupa Bankowa", "sgb.pl"}
